@@ -1,0 +1,2 @@
+# aydana
+birinshi github proektim
